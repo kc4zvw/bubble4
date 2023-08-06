@@ -3,9 +3,9 @@
  ***
  ***    Author: David Billsbrough <kc4zvw@earthlink.net>
  ***   Created: Thursday, May 20, 2021 at 08:54:57 AM (EDT)
- ***   License: GNU General Public License -- version 2
+ ***   License: MIT License
  ***   Version: $Revision: 0.23 $
- ***  Warranty: None
+ ***  Warranty: None, so if you break it you get to keep both pieces!!  :-)
  ***
  ***   Purpose: Sample program to sort string data with a bubble sort
  ***
